@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="@dimen/padding_16"
+    android:gravity="center">
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/img_item_photo"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_margin="@dimen/padding_2"
+        android:scaleType="centerCrop"
+        android:src="@color/colorAccent"
+        android:layout_marginTop="@dimen/padding_16"
+        android:layout_marginBottom="@dimen/padding_16"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="50dp"
+        android:background="@drawable/background_yellow"/>
+    <TextView
+        android:id="@+id/tv_item_name_Dessert"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="@string/title"
+        android:textSize="25dp"
+        android:textColor="@color/colorPrimaryDark"
+        android:layout_margin="2dp"
+        android:layout_marginBottom="@dimen/margin_8"
+        android:gravity="center"/>
+</LinearLayout>

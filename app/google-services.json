@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "1054846357095",
+    "firebase_url": "https://uas01-7d367.firebaseio.com",
+    "project_id": "uas01-7d367",
+    "storage_bucket": "uas01-7d367.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054846357095:android:ba5012f1987d948f980ec2",
+        "android_client_info": {
+          "package_name": "com.natania.uas_01"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1054846357095-2kse52ufob24vefkhse01tiibqlergh7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.natania.uas_01",
+            "certificate_hash": "493867e8a54a178a35f67915d6e65b84679976fb"
+          }
+        },
+        {
+          "client_id": "1054846357095-csl5l5dlig0qdmu22v7q2adhl2k03b90.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.natania.uas_01",
+            "certificate_hash": "2a697b0a16f2eb18dc40857552442b76bfb7d4b4"
+          }
+        },
+        {
+          "client_id": "1054846357095-sj6bftd7gnhhloltf62j7ik7fch14at2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMZ4MfrzMb8GTjJ3WioV_1_3eMIiRZ2jM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1054846357095-sj6bftd7gnhhloltf62j7ik7fch14at2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
